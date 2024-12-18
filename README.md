@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
+<p align="right">
+  <img src="assets/images/fullstack_developer.png" alt="Fullstack Developer" width="400"/>
+</p>
 
 ### **Frameworks and Libraries**
 <p align="left">
